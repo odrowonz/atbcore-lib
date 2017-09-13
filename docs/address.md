@@ -1,4 +1,4 @@
-# Atbcoin Address
+# ATBcoin Address
 Represents a atbcoin address. Addresses are the most popular way to make atbcoin transactions.
 
 ## Instantiate an Address

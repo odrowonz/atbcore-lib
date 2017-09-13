@@ -1,7 +1,7 @@
-Atbcore Library
+ATBcore Library
 =======
 
-A pure and powerful JavaScript Atbcore library.
+A pure and powerful JavaScript ATBcore library.
 
 ## Principles
 
@@ -15,7 +15,7 @@ npm install atbcore-lib
 
 ## Security
 
-We're using Atbcore in production, as are many others, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
+We're using ATBcore in production, as are many others, but please use common sense when doing anything related to finances! We take no responsibility for your implementation decisions.
 
 If you find a security issue, please email segwitcoin@gmail.com.
 
